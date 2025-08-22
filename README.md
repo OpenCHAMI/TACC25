@@ -1,5 +1,7 @@
 # Hackathon / Docsathon at TACC-25
 
+- **Chair:** Jonathan Dietz - [jd@broadwing.io](mailto:jd@broadwing.io)
+
 ## 📌 What is it?
 The Hackathon / Docsathon is a **two-hour collaborative sprint** during the **TACC-25 OpenCHAMI Developer Summit**.  
 Participants will work in small teams to make meaningful contributions to the project — from writing documentation, improving CI/CD workflows, or submitting code changes.
